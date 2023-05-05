@@ -9,13 +9,13 @@
 <link rel="stylesheet" href="/webjars/bootstrap/css/bootstrap.min.css" />
 <script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
 <title>Insert title here</title>
-<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/style2.css">
 </head>
 <body>
 	<h1>
 		<c:out value="${date}" />
 	</h1>
 
-<script type="text/javascript" src="/js/app.js"></script>
+<script type="text/javascript" src="/js/app2.js"></script>
 </body>
 </html>
